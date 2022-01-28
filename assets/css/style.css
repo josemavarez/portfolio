@@ -10200,7 +10200,7 @@ body.modal-open {
           width: 0;
           z-index: 10;
           right: 44px;
-          position: absolute;
+          position: fixed;
           top: 18px; }
           .modal .modal-dialog .modal-content .modal-header .close span {
             color: var(--color-white);
