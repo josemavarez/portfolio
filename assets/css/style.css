@@ -14611,5 +14611,18 @@ body.white-version {
 
 .white-version .slider-style-6 .cd-headline span {
   color: var(--color-white) !important; }
+.zoom{
+  display: none;
+}
+  @media only screen and (max-width: 767px) {
+    .zoom {
+      display: block;
+      position: fixed;
+      bottom: 14px;
+      right: -10px;
+      width: 100%; } }
+
+
+  
 
 /*# sourceMappingURL=../maps/style.css.map */
