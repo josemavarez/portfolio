@@ -7778,11 +7778,11 @@ Copyright (c) 2015 Daniel Eden
 
 @media only screen and (min-width: 1170px) {
   .cd-headline {
-    font-size: 48px; } }
+    font-size: 28px; } }
 
 @media only screen and (max-width: 768px) {
   .cd-headline {
-    font-size: 40px; } }
+    font-size: 25px; } }
 
 @media only screen and (max-width: 479px) {
   .cd-headline {
@@ -9743,12 +9743,12 @@ figcaption {
     transform: translateY(150px); }
   .slider-style-5 .thumbnail {
     margin-bottom: 18px;
-    padding: 10px;
+    padding: 7px;
     display: inline-block; }
     .slider-style-5 .thumbnail img {
       border-radius: 50%;
       height: auto;
-      width: 250px;
+      width: 150px;
       border: 5px solid #32363b; }
     .slider-style-5 .thumbnail.gradient-border img {
       border: none;
@@ -9765,18 +9765,18 @@ figcaption {
   100% {
     background-position: 0% 50%; } }
   .slider-style-5 h1 {
-    font-size: 48px;
+    font-size: 38px;
     margin-bottom: 0; }
     @media only screen and (max-width: 767px) {
       .slider-style-5 h1 {
-        font-size: 38px;
+        font-size: 28px;
         margin-bottom: 10px; } }
   .slider-style-5 .cd-headline span {
-    font-size: 30px;
+    font-size: 20px;
     color: var(--color-lightn); }
   .slider-style-5 .cd-headline .cd-words-wrapper b {
     font-weight: 300;
-    font-size: 30px;
+    font-size: 20px;
     color: var(--color-primary); }
   .slider-style-5 .social-share-style-1 {
     border-top: none;
